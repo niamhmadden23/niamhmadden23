@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React
 - 👩🏻‍💻 I’m looking to collaborate on full stack projects
 - 📫 How to reach me: niamhmadden15@gmail.com
-- ⚡ Other hobbies: Reading and Muay Thai 
+- ⚡ Other hobbies: Reading and Muay Thai
 -->
